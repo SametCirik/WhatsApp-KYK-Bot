@@ -1,6 +1,11 @@
 <p align="center">
-  <a href="./README.md">🇬🇧 English</a> |
-  <a href="./README_tr.md">🇹🇷 Türkçe</a>
+  <a href="./README.md">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg" alt="English" width="40">
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="./README_tr.md">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tr.svg" alt="Türkçe" width="40">
+  </a>
 </p>
 
 ---
