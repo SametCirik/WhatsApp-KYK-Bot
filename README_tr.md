@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="./README.md">🇬🇧 English</a> |
+  <a href="./README_tr.md">🇹🇷 Türkçe</a>
+</p>
+
+---
+
 # KYK Yemek Menüsü Botu - WhatsApp Otomasyonu
 
 Bu, **KYK (Kredi ve Yurtlar Kurumu)** yurtları için yemek menülerini yönetmek ve belirlenen bir tarihte otomatik olarak WhatsApp üzerinden göndermek amacıyla tamamen **Java** programlama dili kullanılarak geliştirilmiş kişisel bir masaüstü uygulamasıdır.
