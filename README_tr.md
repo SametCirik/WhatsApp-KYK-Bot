@@ -93,9 +93,3 @@ Ancak projeyle veya kod yapısıyla ilgileniyorsanız, gelecekteki geliştirmele
 ##  Geliştirici *(-ler)*
 
 Bu proje, **[Samet Cırık](https://github.com/SametCirik)** tarafından geliştirilmiştir.
-
----
-
-## Katkıda Bulunanlar (!)
-
-Bu projeye kodlarıyla katkıda bulunanların tam listesini [GitHub'ın katkıda bulunanlar sayfasında](https://github.com/SametCirik/WhatsApp-KYK-Bot/graphs/contributors) görebilirsiniz.
