@@ -30,7 +30,7 @@ This project focuses on creating a functional Graphical User Interface (GUI) fro
 
 ## Project Status and Planned Features (v1.0)
 
-**Current Status:** The project's main functions (interface, CSV operations, and WhatsApp automation) are complete. `v1.0` version is stable and fully functional "for now", use of `v1.1` software is not recommended.
+**Current Status:** The project's main functions (interface, CSV operations, and WhatsApp automation) are complete. `v1.0` version is stable and fully functional "for now", I do not recommend using `v1.1` version.
 
 - [Download v1.0 Pre-Alpha Release](https://github.com/SametCirik/WhatsApp-KYK-Bot/releases/tag/v1.0)
 - [Download v1.1 Pre-Alpha Release](https://github.com/SametCirik/WhatsApp-KYK-Bot/releases/tag/v1.1)
