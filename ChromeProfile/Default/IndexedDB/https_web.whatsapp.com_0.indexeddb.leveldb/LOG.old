@@ -1,0 +1,60 @@
+2025/12/15-06:46:01.856 630 Reusing MANIFEST C:\Users\samet\kyk\Whatsapp-KYK-Bot\ChromeProfile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/15-06:46:01.857 630 Recovering log #1451
+2025/12/15-06:46:01.885 630 Reusing old log C:\Users\samet\kyk\Whatsapp-KYK-Bot\ChromeProfile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001451.log 
+2025/12/15-06:46:03.663 630 Level-0 table #1468: started
+2025/12/15-06:46:03.681 630 Level-0 table #1468: 831448 bytes OK
+2025/12/15-06:46:03.683 630 Delete type=0 #1451
+2025/12/15-06:46:03.684 630 Manual compaction at level-0 from '\x00o\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00p\x00\x00\x00' @ 0 : 0; will stop at '\x00o\x00\x00\x05' @ 3907659 : 1
+2025/12/15-06:46:03.684 630 Compacting 1@0 + 0@1 files
+2025/12/15-06:46:03.697 630 Generated table #1469@0: 13531 keys, 222661 bytes
+2025/12/15-06:46:03.704 630 Generated table #1470@0: 3297 keys, 183708 bytes
+2025/12/15-06:46:03.706 630 Generated table #1471@0: 461 keys, 11494 bytes
+2025/12/15-06:46:03.707 630 Compacted 1@0 + 0@1 files => 417863 bytes
+2025/12/15-06:46:03.707 630 compacted to: files[ 0 3 25 0 0 0 0 ]
+2025/12/15-06:46:03.708 630 Delete type=2 #1468
+2025/12/15-06:46:03.708 630 Manual compaction at level-0 from '\x00o\x00\x00\x05' @ 3907659 : 1 .. '\x00p\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/15-06:46:03.719 4478 Compacting 1@1 + 10@2 files
+2025/12/15-06:46:03.761 4478 Generated table #1472@1: 13800 keys, 2177802 bytes
+2025/12/15-06:46:03.849 4478 Generated table #1473@1: 27669 keys, 2259966 bytes
+2025/12/15-06:46:03.923 4478 Generated table #1474@1: 23860 keys, 2282712 bytes
+2025/12/15-06:46:03.992 4478 Generated table #1475@1: 24228 keys, 2278637 bytes
+2025/12/15-06:46:04.047 4478 Generated table #1476@1: 21010 keys, 2248428 bytes
+2025/12/15-06:46:04.107 4478 Generated table #1477@1: 51435 keys, 2256318 bytes
+2025/12/15-06:46:04.142 4478 Generated table #1478@1: 10485 keys, 2186482 bytes
+2025/12/15-06:46:04.175 4478 Generated table #1479@1: 21341 keys, 2146830 bytes
+2025/12/15-06:46:04.239 4478 Generated table #1480@1: 103821 keys, 2256406 bytes
+2025/12/15-06:46:04.309 4478 Generated table #1481@1: 101224 keys, 2250918 bytes
+2025/12/15-06:46:04.311 4478 Generated table #1482@1: 1216 keys, 26291 bytes
+2025/12/15-06:46:04.311 4478 Compacted 1@1 + 10@2 files => 22370790 bytes
+2025/12/15-06:46:04.312 4478 compacted to: files[ 0 2 26 0 0 0 0 ]
+2025/12/15-06:46:04.312 4478 Delete type=2 #1423
+2025/12/15-06:46:04.313 4478 Delete type=2 #1424
+2025/12/15-06:46:04.313 4478 Delete type=2 #1425
+2025/12/15-06:46:04.313 4478 Delete type=2 #1426
+2025/12/15-06:46:04.313 4478 Delete type=2 #1455
+2025/12/15-06:46:04.313 4478 Delete type=2 #1456
+2025/12/15-06:46:04.313 4478 Delete type=2 #1457
+2025/12/15-06:46:04.313 4478 Delete type=2 #1458
+2025/12/15-06:46:04.313 4478 Delete type=2 #1459
+2025/12/15-06:46:04.313 4478 Delete type=2 #1460
+2025/12/15-06:46:04.313 4478 Delete type=2 #1470
+2025/12/15-06:46:04.437 4478 Compacting 1@1 + 4@2 files
+2025/12/15-06:46:04.498 4478 Generated table #1483@1: 71406 keys, 2265063 bytes
+2025/12/15-06:46:04.559 4478 Generated table #1484@1: 43260 keys, 2204377 bytes
+2025/12/15-06:46:04.617 4478 Generated table #1485@1: 31742 keys, 2194852 bytes
+2025/12/15-06:46:04.649 4478 Generated table #1486@1: 2107 keys, 2025203 bytes
+2025/12/15-06:46:04.649 4478 Compacted 1@1 + 4@2 files => 8689495 bytes
+2025/12/15-06:46:04.650 4478 compacted to: files[ 0 1 26 0 0 0 0 ]
+2025/12/15-06:46:08.784 4478 Compacting 1@1 + 2@2 files
+2025/12/15-06:46:08.880 4478 Generated table #1487@1: 101741 keys, 2252760 bytes
+2025/12/15-06:46:08.921 4478 Generated table #1488@1: 37725 keys, 844572 bytes
+2025/12/15-06:46:08.921 4478 Compacted 1@1 + 2@2 files => 3097332 bytes
+2025/12/15-06:46:08.922 4478 compacted to: files[ 0 0 26 0 0 0 0 ]
+2025/12/15-06:46:08.922 4478 Delete type=2 #1383
+2025/12/15-06:46:08.922 4478 Delete type=2 #1461
+2025/12/15-06:46:08.922 4478 Delete type=2 #1462
+2025/12/15-06:46:08.922 4478 Delete type=2 #1463
+2025/12/15-06:46:08.922 4478 Delete type=2 #1464
+2025/12/15-06:46:08.922 4478 Delete type=2 #1465
+2025/12/15-06:46:08.922 4478 Delete type=2 #1469
+2025/12/15-06:46:08.923 4478 Delete type=2 #1471
