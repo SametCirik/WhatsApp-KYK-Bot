@@ -27,7 +27,7 @@ Modern bir veri giriş arayüzü (GUI), sunucu ortamları için Komut Satırı (
 * **Zamanlayıcı & Planlama:** Mesajları belirli bir tarih ve saatte gönderilecek şekilde zamanlayın veya anında gönderin.
 
 ### v1.2 Yenilikleri
-* **Sunucu Sürümü (CLI Modu):** Botu "headless" (ekransız) sunucularda veya terminal üzerinden çalıştırmak için tam işlevli bir Komut Satırı Arayüzü (`kykbot.bat`).
+* **Sunucu Sürümü (CLI Modu):** Botu "headless" (ekransız) sunucularda veya terminal üzerinden çalıştırmak için tam işlevli bir Komut Satırı Arayüzü (`KykBotTerminal.bat`).
 * **Akıllı Navigasyon:** Veri girişini hızlandırmak için menü alanları arasında **Ok Tuşları (Yukarı/Aşağı)** ile gezinebilme özelliği.
 * **Gelişmiş Medya Yönetimi:** JAR dosyalarından uygulama ikonlarının ve logoların yüklenmesiyle ilgili sorunlar giderildi.
 * **Emoji Desteği:** Sistem Panosu (Clipboard) entegrasyonu kullanılarak Selenium BMP hataları aşıldı ve emojili mesaj formatı iyileştirildi.
