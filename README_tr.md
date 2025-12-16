@@ -49,7 +49,7 @@ Projeyi çalıştırmadan önce aşağıdakilerin yüklü olduğundan emin olun:
 ### 1. Depoyu Klonlayın
 
 ```bash
-git clone [https://github.com/SametCirik/WhatsApp-KYK-Bot.git](https://github.com/SametCirik/WhatsApp-KYK-Bot.git)
+git clone https://github.com/SametCirik/WhatsApp-KYK-Bot.git
 cd WhatsApp-KYK-Bot
 ```
 
