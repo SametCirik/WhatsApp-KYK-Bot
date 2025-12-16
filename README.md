@@ -48,7 +48,7 @@ Before running the project, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/SametCirik/WhatsApp-KYK-Bot.git](https://github.com/SametCirik/WhatsApp-KYK-Bot.git)
+git clone https://github.com/SametCirik/WhatsApp-KYK-Bot.git
 cd WhatsApp-KYK-Bot
 ```
 
