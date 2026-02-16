@@ -10,7 +10,7 @@
 
 ---
 
-# KYK Yemek Menüsü Botu - WhatsApp Otomasyonu (v1.2)
+# KYK Yemek Menüsü Botu - WhatsApp Otomasyonu
 
 Bu proje, **KYK (Kredi ve Yurtlar Kurumu)** yurtlarındaki haftalık yemek menülerini yönetmek ve bunları **WhatsApp** üzerinden otomatik olarak paylaşmak için **Java (Swing + Selenium)** kullanılarak geliştirilmiş, hem masaüstü hem de sunucu tarafında çalışabilen güçlü bir uygulamadır.
 

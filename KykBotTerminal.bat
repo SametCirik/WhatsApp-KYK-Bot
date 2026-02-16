@@ -17,6 +17,19 @@ set "SLOW=powershell -nop -c "^& {sleep -m 40}""
 REM --- CALISMA KONUMUNU SABITLE ---
 cd /d "%~dp0"
 
+REM --- JAR DOSYASI KONTROLU ---
+set JAR_NAME=Whatsapp-KYK-Bot.jar
+
+if not exist "%JAR_NAME%" (
+    color 0C
+    echo.
+    echo [HATA] %JAR_NAME% dosyasi bu klasorde bulunamadi!
+    echo Lutfen JAR dosyasinin isminin dogru oldugundan emin olun.
+    echo.
+    pause
+    exit
+)
+
 echo.
 echo.
 REM ==============================================================================
@@ -100,32 +113,8 @@ echo                             [ Developer  ] :: Samet CIRIK
 echo.
 echo.
 
-REM --- JAR DOSYASI KONTROLU ---
-set JAR_NAME=Whatsapp-KYK-Bot.jar
-
-if not exist "%JAR_NAME%" (
-    color 0C
-    echo.
-    echo [HATA] %JAR_NAME% dosyasi bu klasorde bulunamadi!
-    echo Lutfen JAR dosyasinin isminin dogru oldugundan emin olun.
-    echo.
-    pause
-    exit
-)
-
-REM --- KULLANICI GIRISI ---
-set /p grupAdi="[93m>> Lutfen mesajin gidecegi GRUP ADINI yazin: [0m"
+REM --- JAVAYI BASLAT (Shell Modu) ---
+REM Artik grup adi sormuyoruz, direkt basliyor.
+java -jar "Whatsapp-KYK-Bot.jar" --bot "shell"
 
 echo.
-echo ----------------------------------------------------------------------------------------
-echo [INFO] Hedef Grup: "%grupAdi%"
-echo [INFO] Chrome motoru ve Bot baslatiliyor...
-echo ----------------------------------------------------------------------------------------
-echo.
-
-REM --- JAVAYI BASLAT ---
-java -jar "%JAR_NAME%" --bot "%grupAdi%"
-
-echo.
-echo [OK] Islem tamamlandi. Pencere 10 saniye icinde kapanacak...
-timeout /t 10 > nul

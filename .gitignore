@@ -1,2 +1,26 @@
+# --- KİŞİSEL VE GİZLİ VERİLER ---
+config.properties
+ChromeProfile/
+data/
 
+# --- DERLEME VE JAVA DOSYALARI ---
+target/
+Bot/BotGUI/target/
+*.class
+*.log
+dependency-reduced-pom.xml
+
+# --- BÜYÜK VE GEREKSİZ KLASÖRLER ---
 jre/
+lib/
+bin/
+
+# --- IDE AYARLARI (Gerekirse) ---
+.idea/
+.vscode/
+*.iml
+
+# --- BINARY DOSYALAR (Kaynak kodda durmamalı) ---
+*.jar
+*.jar.gz
+*.zip
